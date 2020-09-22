@@ -1,2 +1,4 @@
-# PUNITH-V-ENG17CS0166
-VII-C-Web-Programming-Lab created by GitHub classroom
+NAME - PUNITH V
+USN - ENG17CS0166
+CLASS - VII SEM C SEC
+
